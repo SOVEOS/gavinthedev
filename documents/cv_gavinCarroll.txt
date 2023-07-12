@@ -1,0 +1,68 @@
+﻿Gavin Carroll 
+Orlando, Florida, United States 
+gavinthedev@gmail.com  
+linkedin.com/in/gavin-c-6579738 
+
+Summary 
+* Bilingual (English & Spanish) Front-End Developer With Excellent Communication Skills. 
+* Passionate About Web, AI, and Blockchain Technologies. 
+* See some of my work at https://gavinthedev.com 
+
+Experience 
+Developer 
+SOV Labs LLC 
+Oct 2019 - Present (3 years 10 months) 
+Technical skills include: 
+javascript, jQuery, phaserJS, mdb, Bootstrap, vue, eosJS, scatterJS, huggingfaceJS, openAI API, prompt engineering, chat-GPT, html5, animateCSS, css, ui/ux, inkscape, reason, + more 
+Accomplishments include: 
+gavinthedev.com - my portfolio with an LLM built in via API and trained with prompt engineering. uses mdb5, jQuery, javascript, huggingfaceJS / openaiAPI, expressJS, nodeJS, animateCSS, and more. 
+ecpu application - blockchain application for resource management on the eos blockchain with delegation, voting, mining and more. responsible for all front-end and ui/ux. 
+sovdex application - trustless algorithmic swap exchange built on the eos blockchain. application has ability to trade, stake, mine, manage resources and more. responsible for all front-end and ui/ux. 
+sov invaders - gamefi (persistent rts mmo) application built on the eos blockchain. sov invaders uses AMM algorithms to create a dynamic economy based on user actions with a reward system for destroying other players' items. responsible for initial MVP of isometric tilemap in Phaser3, custom scrolling and zooming functions, map building functions, background design and 3d effect, roaming api endpoints, music and more. 
+xsov defi application - defi application for sov where users can lock away their sov in exchange for xsov. responsible for all front-end and ui/ux. 
+btcminer application - blockchain application for turning spare resources into bitcoin. responsible for all front-end and ui/ux. 
+safetoken application - defi application similar to xsov but uses usdt. all open source. responsible for all front-end and ui/ux. 
+soveos.one website - sov website. responsible for all front-end and ui/ux. 
+
+Awards include: 
+SOV Labs LLC being recognized as a valuable contributor to the EOS blockchain by the EOS Network Foundation via a $100k recognition grant. 
+
+Executive & Technical Recruiting Consultant 
+Protégé Hunters 
+Jan 2019 - Oct 2019 (10 months) 
+Sourcing, contacting, and interviewing tough to find technical candidates. 
+Negotiating complex compensation packages. 
+Creating win/win situations for technical candidates and clients. 
+
+Business Development Manager 
+Tekk Fusion 
+Mar 2015 - Oct 2018 (3 years 8 months) 
+Signed 9 new clients (one being one of the largest consulting companies in the world) and placed 8 Sr. Level candidates in first 3 months (quarter) starting with no pipeline. 
+Responsibilities included: 
+Leading and optimizing executive & IT staffing strategies, processes and programs designed to improve operational effectiveness for clients. 
+Working to determine current and future recruiting needs. 
+Negotiating complex compensation packages. 
+Sourcing, contacting, and interviewing candidates. 
+Working with organizational alignment and segment HR leaders to plan and sequence leadership moves, and understand competencies required in our new generation leaders. 
+Prospect for new clients through cold calling, online networking, and traditional networking.
+Manage and grow existing accounts by maintaining consistent and effective communication with decision makers to determine and fill ongoing and short term technology needs. 
+
+Sr. Technical Recruiter 
+Tekk Fusion 
+Feb 2012 - Feb 2014 (2 years 1 month) 
+Worked with organizational alignment and segment HR leaders to plan and sequence leadership moves, and understand competencies required in our new generation leaders. Developed candidate generation strategies to build a pipeline of diverse executive talent, and integrate those pipelines with internal supply. 
+Negotiated executive compensation utilizing the ability to analyze complex compensation packages. Delivered strong interpersonal, organizational, negotiation and presentation skills. 
+
+Some of the technologies staffed for and teams built around include:
+
+Blockchain
+EOSIO, Ethereum, C++, Solidity, VueJS, ReactJS, EOSJS, ScatterJS, Automation, Smart Contracts, Tokenization, Web3, NFTs, DeFi, etc... 
+
+Traditional IT 
+Architects, Developers/Engineers, Pre-Sales Engineers, Programmers, Testers and Administrators including .Net/C#/C++/C, GoLang, Java/J2EE, SQL, AWS, SalesForce/Force.com, Apex, X++, Hadoop, Spark, Android, iOS, Objective-C, X-Code, Javascript, AngularJS, Angular, VueJS, NodeJS, JQuery, JQuery, HTML5, PHP, Ruby on Rails, Clojure, Scala, etc.. 
+
+Technical and Functional ERP Professionals 
+Dynamics AX, NAV, CRM, GP, Oracle EBS, Oracle Fusion, Peoplesoft, SAP Business Suite, InforVisual, EpiCore, JD Edwards, SAGE, Workday, etc.. 
+
+Executive, Leadership and Strategic Roles 
+CEO, CFO, CTO, CIO, VP, Director, SME, Program Manager, Product Manager, Project Manager, Business Analyst, etc..
